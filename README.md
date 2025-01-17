@@ -1,14 +1,16 @@
 <table>
   <tr>
     <td>
-      <picture>
-        <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
-      </picture>
+      <p align="center"><img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400"></p>
     </td>
     <td>
-      <picture>
-        <img src="/metrics.plugin.languages.svg" alt="Metrics">
-      </picture>
+      <p align="center"><img src="/metrics.plugin.languages.svg" alt="Metrics" width="400"></p>
+    </td>
+    <td>
+      <p align="center"><img src="/metrics.plugin.languages.svg" alt="Metrics" width="400"></p>
+    </td>
+    <td>
+      <p align="center"><img src="/metrics.plugin.languages.svg" alt="Metrics" width="400"></p>
     </td>
   </tr>
 </table>
