@@ -6,11 +6,10 @@
     <td>
       <p align="center"><img src="/metrics.plugin.languages.svg" alt="Metrics" width="400"></p>
     </td>
-    <td>
-      <p align="center"><img src="/metrics.plugin.languages.svg" alt="Metrics" width="400"></p>
-    </td>
-    <td>
-      <p align="center"><img src="/metrics.plugin.languages.svg" alt="Metrics" width="400"></p>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p align="center"><img src="/metrics.plugin.skyline.svg" alt="Metrics" width="800"></p>
     </td>
   </tr>
 </table>
